@@ -1,0 +1,10 @@
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win14\bin\Debug\Win14.exe.config
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win14\bin\Debug\Win14.exe
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win14\bin\Debug\Win14.pdb
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win14\obj\Debug\Win14.csproj.AssemblyReference.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win14\obj\Debug\Win14.Form1.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win14\obj\Debug\Win14.Properties.Resources.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win14\obj\Debug\Win14.csproj.GenerateResource.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win14\obj\Debug\Win14.csproj.CoreCompileInputs.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win14\obj\Debug\Win14.exe
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win14\obj\Debug\Win14.pdb

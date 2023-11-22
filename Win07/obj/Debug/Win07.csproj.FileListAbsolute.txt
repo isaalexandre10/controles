@@ -1,0 +1,10 @@
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win07\bin\Debug\Win07.exe.config
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win07\bin\Debug\Win07.exe
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win07\bin\Debug\Win07.pdb
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win07\obj\Debug\Win07.csproj.AssemblyReference.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win07\obj\Debug\Win07.Form1.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win07\obj\Debug\Win07.Properties.Resources.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win07\obj\Debug\Win07.csproj.GenerateResource.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win07\obj\Debug\Win07.csproj.CoreCompileInputs.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win07\obj\Debug\Win07.exe
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win07\obj\Debug\Win07.pdb

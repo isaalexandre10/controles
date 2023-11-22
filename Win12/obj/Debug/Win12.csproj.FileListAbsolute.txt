@@ -1,0 +1,9 @@
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win12\bin\Debug\Win12.exe.config
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win12\bin\Debug\Win12.exe
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win12\bin\Debug\Win12.pdb
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win12\obj\Debug\Win12.csproj.AssemblyReference.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win12\obj\Debug\Win12.Properties.Resources.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win12\obj\Debug\Win12.csproj.GenerateResource.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win12\obj\Debug\Win12.csproj.CoreCompileInputs.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win12\obj\Debug\Win12.exe
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao04\Win12\obj\Debug\Win12.pdb
